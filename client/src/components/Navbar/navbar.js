@@ -22,7 +22,9 @@ const Navbar = () => {
 
   useEffect(() => {
     const token = user?.token;
+
     // JWT (josn web token )
+
     setUser(JSON.parse(localStorage.getItem("profile")));
   }, [location]);
 
