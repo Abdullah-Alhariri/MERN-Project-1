@@ -13,5 +13,5 @@ By the end of this video, you will have a strong understanding of how the MERN S
 Setup:
 
 - run `npm i && npm start` for both client and server side to start the app
-
-this is from adrianhajdin
+  made by
+  JavaScript Mastery
