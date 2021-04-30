@@ -52,7 +52,7 @@ const Auth = () => {
 
   const switchMode = () => {
     setIsSignup((previsSignup) => !previsSignup);
-    handleShowPassword(false);
+    setShowPassword(false);
   };
   return (
     <Container component="main" maxWidth="xs">
